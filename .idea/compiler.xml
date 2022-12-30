@@ -7,14 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="builder-pattern" />
+        <module name="prototype-pattern" />
+        <module name="adapter-pattern" />
         <module name="abstract-factory" />
+        <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="abstract-factory" target="8" />
-      <module name="builder-pattern" target="8" />
-      <module name="desigin-pattern" target="8" />
+      <module name="abstract-factory" target="1.8" />
+      <module name="adapter-pattern" target="1.8" />
+      <module name="builder-pattern" target="1.8" />
+      <module name="desigin-pattern" target="1.8" />
+      <module name="prototype-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

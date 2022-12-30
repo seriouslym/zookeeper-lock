@@ -14,7 +14,9 @@
     </properties>
     <modules>
         <module>abstract-factory</module>
+        <module>adapter-pattern</module>
         <module>builder-pattern</module>
+        <module>prototype-pattern</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
@@ -44,6 +46,11 @@
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>1.2.12</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.83</version>
         </dependency>
     </dependencies>
 
