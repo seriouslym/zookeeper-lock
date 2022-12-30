@@ -14,6 +14,7 @@
     </properties>
     <modules>
         <module>abstract-factory</module>
+        <module>builder-pattern</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>

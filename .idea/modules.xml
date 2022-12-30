@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstract-factory/abstract-factory.iml" filepath="$PROJECT_DIR$/abstract-factory/abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder-pattern/builder-pattern.iml" filepath="$PROJECT_DIR$/builder-pattern/builder-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desigin-pattern.iml" filepath="$PROJECT_DIR$/desigin-pattern.iml" />
+    </modules>
+  </component>
+</project>
