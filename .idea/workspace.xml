@@ -28,6 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="603649b7-19c1-40d5-a903-41d10205b466" name="Default Changelist" comment="prototype-pattern">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_83.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" afterDir="false" />
@@ -96,6 +97,32 @@
       <change beforePath="$PROJECT_DIR$/builder-pattern/target/surefire-reports/xxxTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/adapter-pattern/target/surefire-reports/ApiTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/builder-pattern/target/test-classes/xxxTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/desigin-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desigin-pattern.iml" afterDir="false" />
+=======
+    <list default="true" id="603649b7-19c1-40d5-a903-41d10205b466" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/builder-pattern/src/main/java/comj/zjj/design/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/zjj/design/AnswerQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/zjj/design/ChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/zjj/design/QuestionBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/zjj/design/QuestionBankController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/zjj/design/util/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/main/java/com/zjj/design/util/TopicRandomUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/main/resources/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype-pattern/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/src/test/java/xxxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/src/test/java/xxxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/builder-pattern-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/builder-pattern-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/classes/comj/zjj/design/Student$StudentBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/classes/comj/zjj/design/Student$StudentBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/classes/comj/zjj/design/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/classes/comj/zjj/design/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/surefire-reports/TEST-xxxTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/surefire-reports/TEST-xxxTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/surefire-reports/xxxTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/surefire-reports/xxxTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder-pattern/target/test-classes/xxxTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/builder-pattern/target/test-classes/xxxTest.class" afterDir="false" />
+>>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/prototype-pattern/prototype-pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prototype-pattern/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/prototype-pattern/target/maven-archiver/pom.properties" afterDir="false" />
@@ -165,6 +192,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -186,26 +214,65 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39885056" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="JUnit.ApiTest.test">
+    <configuration name="ApiTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prototype-pattern" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+>>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ApiTest.t" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="adapter-pattern" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ApiTest" />
       <option name="METHOD_NAME" value="t" />
+=======
+    <configuration name="xxxTest.cloneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builder-pattern" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="xxxTest" />
+      <option name="METHOD_NAME" value="cloneTest" />
+>>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ApiTest.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="adapter-pattern" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ApiTest" />
       <option name="METHOD_NAME" value="t1" />
+=======
+    <configuration name="xxxTest.t" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="builder-pattern" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="xxxTest" />
+      <option name="METHOD_NAME" value="t" />
+>>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -244,6 +311,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.RebateInfo" />
       <item itemvalue="JUnit.ApiTest.test" />
       <item itemvalue="JUnit.ApiTest.t" />
@@ -257,6 +325,21 @@
         <item itemvalue="JUnit.ApiTest.t2" />
         <item itemvalue="Application.RebateInfo" />
         <item itemvalue="JUnit.ApiTest.t" />
+=======
+      <item itemvalue="JUnit.xxxx.f" />
+      <item itemvalue="JUnit.xxxx.t" />
+      <item itemvalue="JUnit.xxxTest.t" />
+      <item itemvalue="JUnit.xxxTest.cloneTest" />
+      <item itemvalue="JUnit.ApiTest.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.test" />
+        <item itemvalue="JUnit.xxxTest.cloneTest" />
+        <item itemvalue="JUnit.xxxTest.t" />
+        <item itemvalue="JUnit.xxxx.t" />
+        <item itemvalue="JUnit.xxxx.f" />
+>>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +364,7 @@
       <workItem from="1672307444460" duration="46000" />
       <workItem from="1672307504261" duration="1840000" />
       <workItem from="1672367422972" duration="729000" />
+<<<<<<< HEAD
       <workItem from="1672368165392" duration="9686000" />
       <workItem from="1672712735667" duration="14355000" />
       <workItem from="1672799742106" duration="739000" />
@@ -293,6 +377,9 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1672392773797</updated>
+=======
+      <workItem from="1672368165392" duration="9258000" />
+>>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
     </task>
     <task id="LOCAL-00002" summary="prototype-pattern">
       <created>1672392821162</created>
@@ -330,6 +417,7 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix" />
     <MESSAGE value="prototype-pattern" />
@@ -350,5 +438,80 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+  <component name="WindowStateProjectService">
+    <state x="448" y="87" key="#Project_Structure" timestamp="1671533012325">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="448" y="87" key="#Project_Structure/0.25.1920.967@0.25.1920.967" timestamp="1671533012325" />
+    <state x="383" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672371628850">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="383" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.967@0.25.1920.967" timestamp="1672371628850" />
+    <state x="773" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1672391927884">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="773" y="216" key="#com.intellij.ide.util.MemberChooser/0.25.1920.967@0.25.1920.967" timestamp="1672391927884" />
+    <state x="509" y="113" key="#xxxx.t" timestamp="1672368257997">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="509" y="113" key="#xxxx.t/0.25.1920.967@0.25.1920.967" timestamp="1672368257997" />
+    <state x="499" y="25" key="CommitChangelistDialog2" timestamp="1671188892043">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="499" y="25" key="CommitChangelistDialog2/0.25.1920.967@0.25.1920.967" timestamp="1671188892043" />
+    <state width="1878" height="190" key="GridCell.Tab.0.bottom" timestamp="1672392509152">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="190" key="GridCell.Tab.0.bottom/0.25.1920.967@0.25.1920.967" timestamp="1672392509152" />
+    <state width="1878" height="190" key="GridCell.Tab.0.center" timestamp="1672392509151">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="190" key="GridCell.Tab.0.center/0.25.1920.967@0.25.1920.967" timestamp="1672392509151" />
+    <state width="1878" height="190" key="GridCell.Tab.0.left" timestamp="1672392509151">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="190" key="GridCell.Tab.0.left/0.25.1920.967@0.25.1920.967" timestamp="1672392509151" />
+    <state width="1878" height="190" key="GridCell.Tab.0.right" timestamp="1672392509152">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="190" key="GridCell.Tab.0.right/0.25.1920.967@0.25.1920.967" timestamp="1672392509152" />
+    <state width="1878" height="271" key="GridCell.Tab.1.bottom" timestamp="1672307069378">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.bottom/0.25.1920.967@0.25.1920.967" timestamp="1672307069378" />
+    <state width="1878" height="271" key="GridCell.Tab.1.center" timestamp="1672307069377">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.center/0.25.1920.967@0.25.1920.967" timestamp="1672307069377" />
+    <state width="1878" height="271" key="GridCell.Tab.1.left" timestamp="1672307069377">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.left/0.25.1920.967@0.25.1920.967" timestamp="1672307069377" />
+    <state width="1878" height="271" key="GridCell.Tab.1.right" timestamp="1672307069377">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state width="1878" height="271" key="GridCell.Tab.1.right/0.25.1920.967@0.25.1920.967" timestamp="1672307069377" />
+    <state x="604" y="107" key="NewModule_or_Project.wizard" timestamp="1672368089901">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="604" y="107" key="NewModule_or_Project.wizard/0.25.1920.967@0.25.1920.967" timestamp="1672368089901" />
+    <state x="387" y="125" width="1168" height="728" key="SettingsEditor" timestamp="1672368094896">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="387" y="125" width="1168" height="728" key="SettingsEditor/0.25.1920.967@0.25.1920.967" timestamp="1672368094896" />
+    <state x="344" y="82" key="new project wizard" timestamp="1672388242240">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="344" y="82" key="new project wizard/0.25.1920.967@0.25.1920.967" timestamp="1672388242240" />
+    <state x="625" y="233" width="670" height="675" key="run.anything.popup" timestamp="1672308052217">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="625" y="233" width="670" height="675" key="run.anything.popup/0.25.1920.967@0.25.1920.967" timestamp="1672308052217" />
+    <state x="625" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1672391920704">
+      <screen x="0" y="25" width="1920" height="967" />
+    </state>
+    <state x="625" y="237" width="670" height="676" key="search.everywhere.popup/0.25.1920.967@0.25.1920.967" timestamp="1672391920704" />
+>>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
   </component>
 </project>
