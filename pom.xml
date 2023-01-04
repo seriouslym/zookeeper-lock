@@ -17,6 +17,7 @@
         <module>adapter-pattern</module>
         <module>builder-pattern</module>
         <module>prototype-pattern</module>
+        <module>bridge-pattern</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
