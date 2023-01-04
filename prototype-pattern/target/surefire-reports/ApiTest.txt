@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ApiTest
 -------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.05 sec
-=======
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 sec
->>>>>>> bf64398754d44d01eb8f85b5c2dd72fe74d814ef
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec
