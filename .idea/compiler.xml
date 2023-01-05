@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bridge-pattern" />
         <module name="prototype-pattern" />
+        <module name="mapreduce" />
         <module name="adapter-pattern" />
         <module name="abstract-factory" />
         <module name="builder-pattern" />

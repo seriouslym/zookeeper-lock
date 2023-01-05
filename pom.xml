@@ -18,6 +18,7 @@
         <module>builder-pattern</module>
         <module>prototype-pattern</module>
         <module>bridge-pattern</module>
+        <module>mapreduce</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
@@ -52,6 +53,11 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.83</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.11.0</version>
         </dependency>
     </dependencies>
 
