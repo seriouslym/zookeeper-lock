@@ -8,9 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bridge-pattern" />
-        <module name="prototype-pattern" />
         <module name="mapreduce" />
         <module name="adapter-pattern" />
+        <module name="prototype-pattern" />
+        <module name="combination-pattern" />
         <module name="abstract-factory" />
         <module name="builder-pattern" />
       </profile>

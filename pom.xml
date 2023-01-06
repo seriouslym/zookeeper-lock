@@ -19,6 +19,7 @@
         <module>prototype-pattern</module>
         <module>bridge-pattern</module>
         <module>mapreduce</module>
+        <module>combination-pattern</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
