@@ -20,6 +20,7 @@
         <module>bridge-pattern</module>
         <module>mapreduce</module>
         <module>combination-pattern</module>
+        <module>decorator-pattern</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
