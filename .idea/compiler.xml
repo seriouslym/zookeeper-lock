@@ -8,7 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bridge-pattern" />
+        <module name="facade-pattern" />
         <module name="mapreduce" />
+        <module name="suibi" />
+        <module name="spring-pra" />
         <module name="adapter-pattern" />
         <module name="decorator-pattern" />
         <module name="prototype-pattern" />
@@ -17,5 +20,10 @@
         <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-pra" options="-parameters" />
+    </option>
   </component>
 </project>
